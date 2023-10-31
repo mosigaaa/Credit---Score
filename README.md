@@ -3,15 +3,15 @@ In this project, we utilize machine learning to predict the credit scores of ban
 
 
 # Dataset
-
+https://www.kaggle.com/code/saloni1712/credit-score-classification/notebook
 
 # Tools and Technology 🔧
 - **Programming Language** :
 Python 
 - **Libraries** :
-  -scikit-learn 
-  -pandas 
-  -matplotlib and seaborn (To visualize and interpret the dataset)
+-scikit-learn 
+-pandas 
+-matplotlib and seaborn (To visualize and interpret the dataset)
 
 ## Methodology ⚙️
 ### 1. Data Exploration and Visualization 📈
